@@ -1,4 +1,4 @@
-## FundRequest Civic SIP API Server client <img align="right" src="https://fundrequest.io/images/app/header-logo.png" height="30px" />
+## FundRequest Civic SIP API Server client <img align="right" src="https://fundrequest.io/assets/img/logo.png" height="30px" />
 
 
 Repository containing the client to interact with the Civic SIP server.
